@@ -1,0 +1,36 @@
+# MCP / AI 配置相关
+.claude/
+.cline/
+.trae/
+.mcp/
+
+# Unity 生成文件
+Library/
+Temp/
+obj/
+*.csproj
+*.sln
+*.userprefs
+*.pidb
+*.unityproj
+*.booproj
+sysinfo.txt
+
+# VS / IDE
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+Assets/Plugins/NuGet/
+
+# 构建输出
+Build/
+build/
+dist/
+
+# OS 文件
+Thumbs.db
+.DS_Store
